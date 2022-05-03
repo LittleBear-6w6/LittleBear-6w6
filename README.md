@@ -11,3 +11,7 @@ I mainly use private repository to study computer science.
 And I make and deploy my apps on public repository!
 
 [![LittleBear-6w6's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBear-6w6&count_private=true&show_icons=true&theme=vue)](https://github.com/LittleBear-6w6)
+
+[![DigiKeyboard_jp
+](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=DigiKeyboard_jp
+)](https://github.com/LittleBear-6w6/DigiKeyboard_jp)
