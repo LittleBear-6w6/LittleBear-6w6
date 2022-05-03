@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 I mainly use private repository to study computer science.  
 And I make and deploy my apps on public repository!
 
-[![LittleBear-6w6's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBear-6w6&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![LittleBear-6w6's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBear-6w6&count_private=true&show_icons=true&theme=vue)](https://github.com/LittleBear-6w6)
