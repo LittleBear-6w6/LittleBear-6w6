@@ -10,10 +10,18 @@ You can click the Preview link to take a look at your changes.
 I mainly use private repository to study computer science.  
 And I make and deploy my apps on public repository!
 
-[![LittleBear-6w6's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBear-6w6&count_private=true&show_icons=true&theme=vue)](https://github.com/LittleBear-6w6)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBear-6w6)](https://github.com/LittleBear-6w6)
+<a href="https://github.com/LittleBear-6w6">
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=LittleBear-6w6&count_private=true&show_icons=true&theme=vue" />
+</a>
+<a href="https://github.com/LittleBear-6w6">
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBear-6w6&layout=compact&langs_count=10&theme=vue" />
+</a>
 
-[![DigiKeyboard_jp](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=DigiKeyboard_jp)](https://github.com/LittleBear-6w6/DigiKeyboard_jp)
-[![VerifySignedXML](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=VerifySignedXML)](https://github.com/LittleBear-6w6/VerifySignedXML)
-[![ShellScript-CSV](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=ShellScript-CSV)](https://github.com/LittleBear-6w6/ShellScript-CSV)
-[![shell_snippets](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=shell_snippets)](https://github.com/LittleBear-6w6/shell_snippets)
+<br />
+<br />
+
+ 
+[![DigiKeyboard_jp](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=DigiKeyboard_jp&show_owner=true)](https://github.com/LittleBear-6w6/DigiKeyboard_jp)
+[![VerifySignedXML](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=VerifySignedXML&show_owner=true)](https://github.com/LittleBear-6w6/VerifySignedXML)
+[![ShellScript-CSV](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=ShellScript-CSV&show_owner=true)](https://github.com/LittleBear-6w6/ShellScript-CSV)
+[![shell_snippets](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=shell_snippets&show_owner=true)](https://github.com/LittleBear-6w6/shell_snippets)
