@@ -14,7 +14,7 @@ And I make and deploy my apps on public repository!
   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=LittleBear-6w6&count_private=true&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/LittleBear-6w6">
-  <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBear-6w6&layout=compact&card_width=380&langs_count=10&theme=vue" />
+  <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBear-6w6&layout=compact&card_width=400&langs_count=10&theme=vue" />
 </a>
 
 <br />
