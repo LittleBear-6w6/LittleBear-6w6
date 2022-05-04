@@ -10,6 +10,9 @@ You can click the Preview link to take a look at your changes.
 I mainly use private repository to study computer science.  
 And I make and deploy my apps on public repository!
 
+<!---
+github-readme-stats
+--->
 <a href="https://github.com/LittleBear-6w6">
   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=LittleBear-6w6&count_private=true&show_icons=true&theme=vue" />
 </a>
@@ -17,7 +20,18 @@ And I make and deploy my apps on public repository!
   <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBear-6w6&layout=compact&card_width=430&langs_count=10&theme=vue" />
 </a>
 
+<!---
+github-profile-trophy
+--->
 [![trophy](https://github-profile-trophy.vercel.app/?username=LittleBear-6w6&theme=flat&column=4&margin-w=15&margin-h=15)](https://github.com/LittleBear-6w6)
+
+<!---
+github-profile-summary-cards
+--->
+[![](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <br />
 <br />
