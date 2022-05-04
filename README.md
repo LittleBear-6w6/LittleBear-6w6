@@ -17,6 +17,8 @@ And I make and deploy my apps on public repository!
   <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBear-6w6&layout=compact&card_width=430&langs_count=10&theme=vue" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LittleBear-6w6&theme=flat&column=4&margin-w=15&margin-h=15)](https://github.com/LittleBear-6w6)
+
 <br />
 <br />
 
