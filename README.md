@@ -1,15 +1,21 @@
 <p align="left">
   <a href="https://github.com/LittleBear-6w6">
-    <img src="https://komarev.com/ghpvc/?username=LittleBear-6w6" alt="LittleBear-6w6&style=plastic" />
+    <img height="20" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LittleBear-6w6/LittleBear-6w6?logo=github">
+  </a>
+  <a href="https://github.com/LittleBear-6w6">
+    <img height="20" src="https://komarev.com/ghpvc/?username=LittleBear-6w6&style=plastic" alt="LittleBear-6w6" />
+  </a>
+  <a href="https://twitter.com/littlebear_6w6">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/littlebear_6w6?style=social">
+  </a>
+   <a href="https://qiita.com/LittleBear-6w6">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/posts.svg" />
   </a>
   <a href="https://qiita.com/LittleBear-6w6">
-    <img heght="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/contributions.svg" />
   </a>
   <a href="https://qiita.com/LittleBear-6w6">
-    <img heght="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/contributions.svg" />
-  </a>
-  <a href="https://qiita.com/LittleBear-6w6">
-    <img heght="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/followers.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/followers.svg" />
   </a>
 </p>
 
