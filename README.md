@@ -1,7 +1,16 @@
 <p align="left">
-  <a href="">
+  <a href="https://github.com/LittleBear-6w6">
     <img src="https://komarev.com/ghpvc/?username=LittleBear-6w6" alt="LittleBear-6w6&style=plastic" />
-  <a>
+  </a>
+  <a href="https://qiita.com/LittleBear-6w6">
+    <img heght="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/posts.svg" />
+  </a>
+  <a href="https://qiita.com/LittleBear-6w6">
+    <img heght="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/contributions.svg" />
+  </a>
+  <a href="https://qiita.com/LittleBear-6w6">
+    <img heght="20" src="https://qiita-badge.apiapi.app/s/LittleBear-6w6/followers.svg" />
+  </a>
 </p>
 
 - 👋 Hi, I’m @LittleBear-6w6
