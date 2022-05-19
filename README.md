@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=LittleBear-6w6" alt="LittleBear-6w6&style=plastic" />
+  <a>
+</p>
+
 - 👋 Hi, I’m @LittleBear-6w6
 - 👀 I’m interested in Security technology, Linux, Web applications and Mobile applications.
 - 🌱 I’m currently learning Nuxt.js, Vue.js, Python, bash and Vim.
