@@ -91,10 +91,8 @@ github-profile-summary-cards
 </p>
 <h3 align="right">powered by <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original-wordmark.svg" alt="devicons" width="30" height="30" /></h3>
 
-
 <br />
 <br />
-
  
 [![DigiKeyboard_jp](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=DigiKeyboard_jp&show_owner=true)](https://github.com/LittleBear-6w6/DigiKeyboard_jp)
 [![VerifySignedXML](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=VerifySignedXML&show_owner=true)](https://github.com/LittleBear-6w6/VerifySignedXML)
