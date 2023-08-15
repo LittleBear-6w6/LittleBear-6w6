@@ -20,7 +20,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-
-  call-workflow:
-    needs: [build]
-    uses: ./.github/workflows/profile-3d.yml
