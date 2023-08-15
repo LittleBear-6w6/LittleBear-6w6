@@ -2,6 +2,9 @@
   <a href="https://github.com/LittleBear-6w6">
     <img height="20" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LittleBear-6w6/LittleBear-6w6?logo=github">
   </a>
+  <a href="https://github.com/LittleBear-6w6/LittleBear-6w6/actions/workflows/profile-summary-cards.yml">
+    <img height="20" src="https://github.com/LittleBear-6w6/LittleBear-6w6/actions/workflows/profile-summary-cards.yml/badge.svg" alt="CreateProfile" />
+  </a>
   <a href="https://github.com/LittleBear-6w6">
     <img height="20" src="https://komarev.com/ghpvc/?username=LittleBear-6w6&style=plastic" alt="LittleBear-6w6" />
   </a>
