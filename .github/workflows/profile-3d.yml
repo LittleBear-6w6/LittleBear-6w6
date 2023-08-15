@@ -3,12 +3,13 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
+  workflow_run:
+    workflows: [CreateProfileIcons]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    needs: profile-summary-cards
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
