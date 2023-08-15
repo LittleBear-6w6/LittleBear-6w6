@@ -1,5 +1,5 @@
 # name: GitHub-Profile-Summary-Cards
-name: CreateProfile
+name: CreateProfileIcons
 
 on:
   create:
