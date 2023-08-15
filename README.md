@@ -91,6 +91,9 @@ github-profile-summary-cards
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="PhotShop" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50" />
 </p>
 <h3 align="right">powered by <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original-wordmark.svg" alt="devicons" width="30" height="30" /></h3>
 
