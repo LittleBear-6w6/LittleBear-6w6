@@ -1,4 +1,5 @@
-name: GitHub-Profile-Summary-Cards
+# name: GitHub-Profile-Summary-Cards
+name: CreateProfile
 
 on:
   create:
