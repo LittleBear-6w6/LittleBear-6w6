@@ -57,6 +57,12 @@ github-profile-summary-cards
 [![rep-per-language](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/1-repos-per-language.svg) [![most-commit-language](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/2-most-commit-language.svg)
 [![stats](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/3-stats.svg)](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/3-stats.svg) [![productive-time](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/4-productive-time.svg)](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-summary-card-output/vue/4-productive-time.svg)
 
+<!---
+github-profile-3d-contrib
+--->
+[![profile-3d-contrib](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-3d-contrib/profile-gitblock.svg)](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-3d-contrib/profile-gitblock.svg)
+
+
 <h2>Languages and Tools</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
