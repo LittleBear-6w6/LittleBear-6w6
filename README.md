@@ -5,7 +5,7 @@
   <a href="https://github.com/LittleBear-6w6/LittleBear-6w6/actions/workflows/profile-summary-cards.yml">
     <img height="20" src="https://github.com/LittleBear-6w6/LittleBear-6w6/actions/workflows/profile-summary-cards.yml/badge.svg" alt="CreateProfile" />
   </a>
-  <a href="https://github.com/LittleBear-6w6/LittleBear-6w6/actions/workflows/profile-summary-cards.yml">
+  <a href="https://github.com/LittleBear-6w6/LittleBear-6w6/actions/workflows/profile-3d.yml">
     <img height="20" src="https://github.com/LittleBear-6w6/LittleBear-6w6/actions/workflows/profile-3d.yml/badge.svg" alt="GitHub-Profile-3D-Contrib" />
   </a>
   <a href="https://github.com/LittleBear-6w6">
