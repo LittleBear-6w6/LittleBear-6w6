@@ -109,7 +109,7 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
 </p>
 
-  <h3 align="right"><a href="https://devicon.dev/">powered by <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="devicons" width="30" height="30" /></a></h3>
+  <h3 align="right">powered by <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="devicons" width="30" height="30" /></h3>
 <br />
 <br />
  
