@@ -29,7 +29,7 @@
 - 👀 I’m interested in Security technology, Cloud Native Technology, Linux, Container, Web applications and Mobile applications.
 - 🌱 I’m currently learning Nuxt.js, Vue.js, Python, Docker, Kubernets and GitHub Actions.
 - 🐻 I'd like to learn Golang and I crate Web applications with Golang.
-- 🌈 I study Type Script recently.
+- 🌈 I study Type Script and Spring Framework recently.
 
 <!---
 LittleBear-6w6/LittleBear-6w6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
