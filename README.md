@@ -27,8 +27,8 @@
 
 - 👋 Hi, I’m @LittleBear-6w6
 - 👀 I’m interested in Security technology, Cloud Native Technology, Linux, Container, Web applications and Mobile applications.
-- 🌱 I’m currently learning Nuxt.js, Vue.js, Python, Docker, Kubernets and GitHub Actions.
-- 🐻 I'd like to learn Golang and I crate Web applications with Golang.
+- 🌱 I’m currently learning Nuxt.js, Vue.js, Python, Podman, Docker, Kubernets and GitHub Actions.
+- 🐻 I'd like to learn Golang and I create Web applications with Golang.
 - 🌈 I study Type Script and Spring Framework recently.
 
 <!---
@@ -108,6 +108,7 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="Podman" width="50" height="50" />
 </p>
 
   <h3 align="right">powered by <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="devicons" width="30" height="30" /></h3>
