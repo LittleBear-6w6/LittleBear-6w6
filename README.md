@@ -68,12 +68,12 @@ github-profile-3d-contrib
 --->
 [![profile-3d-contrib](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-3d-contrib/profile-gitblock.svg)](https://raw.githubusercontent.com/LittleBear-6w6/LittleBear-6w6/main/profile-3d-contrib/profile-gitblock.svg)
 
-<!---
-Github readme streak status
---->
 ### 🔥Github Streak Status🔥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LittleBear-6w6&theme=vue&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+### 📈Github Chart📈
+[![github-chart](https://github-chart.vercel.app/api?user=LittleBear-6w6)](https://github.com/LittleBear-6w6/github-chart)
 
 
 <h2>Languages and Tools</h2>
