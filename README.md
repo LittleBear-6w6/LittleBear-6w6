@@ -25,6 +25,7 @@
   </a>
 </p>
 
+<img alt="SNQ-2001" src="svg/welcome.svg" width="98.2%" height="100%">
 - 👋 Hi, I’m @LittleBear-6w6
 - 👀 I’m interested in Security technology, Cloud Native Technology, Linux, Container, Web applications and Mobile applications.
 - 🌱 I’m currently learning Nuxt.js, Vue.js, Python, Podman, Docker, Kubernets and GitHub Actions.
