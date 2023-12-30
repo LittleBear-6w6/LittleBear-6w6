@@ -1,4 +1,4 @@
-<svg class="LittleBear-6w6" fill="none" viewBox="0 0 920 75" width="920" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
+<svg class="LittleBear-6w6" fill="none" viewBox="0 0 1050 75" width="1050" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -16,10 +16,10 @@
                 }
 
                 h1 {
-                    font: bold 300% segoe ui emoji,Consolas, Monaco,　 monospace;
+                    font: bold 300% segoe ui emoji,YuGothic,Hiragino Sans,Source Han Sans, Consolas, Monaco,　 monospace;
                     border-right: .2em solid white;
 <!--                     width: 36.5em;  -->
-                    width: 31.2ch;
+                    width: 30.5ch;
                     margin: 0.05em 1.15em;
                     padding-top: 4px;
                     white-space: nowrap;
