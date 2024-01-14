@@ -29,9 +29,8 @@
 
 - 👋 Hi, I’m @LittleBear-6w6
 - 👀 I’m interested in Security technology, Cloud Native Technology, Linux, Container, Web applications and Mobile applications.
-- 🌱 I’m currently learning Nuxt.js, Vue.js, Python, Podman, Docker, Kubernets and GitHub Actions.
-- 🐻 I'd like to learn Golang and I create Web applications with Golang.
-- 🌈 I study Type Script and Spring Framework recently.
+- 🌱 I’m currently learning Java(with Spring Framework), Type Script, Python, Podman, Docker, Kubernets and GitHub Actions.
+- 🌈 I'd like to learn Golang and I create Web applications with Golang.
 
 <!---
 LittleBear-6w6/LittleBear-6w6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
