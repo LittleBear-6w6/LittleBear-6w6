@@ -28,6 +28,7 @@
 <img alt="LittleBear-6w6" src="svg/welcome.svg" width="98.2%" height="100%">
 
 - 👋 Hi, I’m @LittleBear-6w6
+- 🐻 I'm Software Engineer and sometimes InfraEngineer
 - 👀 I’m interested in Security technology, Cloud Native Technology, Linux, Container, Web applications and Mobile applications.
 - 🌱 I’m currently learning Java(with Spring Framework), Type Script, Python, Podman, Docker, Kubernets and GitHub Actions.
 - 🌈 I'd like to learn Golang and I create Web applications with Golang.
