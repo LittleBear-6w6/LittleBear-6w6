@@ -27,6 +27,8 @@
 
 <img alt="LittleBear-6w6" src="svg/welcome.svg" width="98.2%" height="100%">
 
+[![typograssy](https://typograssy.deno.dev/api?text=LittleBear-6w6%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81&l0=f1f4f9&l1=e8b445&l2=4049c4&l3=db1fb2&l4=016f24&speed=100)](https://github.com/kawarimidoll/typograssy)
+
 - 👋 Hi, I’m @LittleBear-6w6.
 - 🐻 I'm Software Engineer and sometimes InfraEngineer.
 - 🔧 Recntly, I have been working on migrating(modernizing) legacy systems.
