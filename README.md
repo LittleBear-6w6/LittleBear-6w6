@@ -31,7 +31,7 @@
 
 - 👋 Hi, I’m @LittleBear-6w6.
 - 🐻 I'm Software Engineer and sometimes InfraEngineer.
-- 🔧 Recntly, I have been working on migrating(modernizing) legacy systems.
+- 🔧 Recntly, I have been working on migrating(modernizing) legacy systems e.g. systems(applications) on mainframe machine.
 - 👀 I’m interested in Security technology, Cloud Native Technology, Linux, Container, Web applications and Mobile applications.
 - 🌱 I’m currently learning Java(with Spring Framework), Type Script, Python, Podman, Docker, Kubernets and GitHub Actions.
 - 🌈 I'd like to learn Golang and I create Web applications in Golang.
