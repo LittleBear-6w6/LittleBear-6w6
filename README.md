@@ -119,28 +119,44 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" alt="Golang" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/awk/awk-original-wordmark.svg" alt="AWK" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualbasic/visualbasic-original.svg" alt="VisualBasic" width="50" height="50" />
 </p>
 <p aligin="left">
   COBOL&emsp;EASY PLUS&emsp;Fortran
 </p>
 
-<h3>Programing Framework</h3>
+<h3>Programing Framework & Library & Tools</h3>
+<h4>C</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gcc/gcc-original.svg" alt="GCC" width="50" height="50" />
+  </p>
+
 <h4>Java</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="50" height="50" />
 </p>
 <h4>JavaScript</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt.js" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="react" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mocha/mocha-original.svg" alt="mocha" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/axios/axios-plain-wordmark.svg" alt="axios" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/eslint/eslint-original-wordmark.svg" alt="ESLint" width="50" height="50" />
 </p>
 <h4>Python</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="50" height="50" />
 </p>
 
 <h3>Cloud Native</h3>
@@ -150,6 +166,7 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/helm/helm-original.svg" alt="HELM" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="Podman" width="50" height="50" />
 </p>
@@ -161,25 +178,34 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="50" height="50" />
 </p>
 
+<h3>CI/CD</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/travis/travis-original-wordmark.svg" alt="Travis CI" width="50" height="50" />
+</p>
+
 <h3>Middleware</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg" alt="tomcat" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50" />
 </p>
 
 <h3>Tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="GCC" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/chrome/chrome-original.svg" alt="Chrome" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firefox/firefox-original.svg" alt="Firefox" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tortoisegit/tortoisegit-original.svg" alt="Tortoisegit" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/subversion/subversion-original-wordmark.svg" alt="Subversion" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" alt="Swagger" width="50" height="50" />
 </p>
 
 <h3>Other</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="PhotShop" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gimp/gimp-original.svg" alt="Gimp" width="50" height="50" />
 </p>
   <h3 align="right">powered by <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="devicons" width="30" height="30" /></h3>
 <br />
