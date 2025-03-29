@@ -169,6 +169,7 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="Podman" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" alt="Vault" width="50" height="50" />
 </p>
 
 <h3>Database</h3>
