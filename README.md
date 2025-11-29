@@ -76,6 +76,10 @@ github-profile-3d-contrib
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LittleBear-6w6&theme=vue&border_radius=5&mode=weekly&fire=EB5454&border=ACAEBC)](https://git.io/streak-stats)
 
+### 📈Github Activity Graph📈
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittleBear-6w6&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 📈Github Chart📈
 [![github-chart](https://github-chart.vercel.app/api?user=LittleBear-6w6)](https://github.com/LittleBear-6w6/github-chart)
 
