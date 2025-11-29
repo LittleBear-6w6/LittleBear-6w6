@@ -27,6 +27,8 @@
 
 <img alt="LittleBear-6w6" src="svg/welcome.svg" width="98.2%" height="100%">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F62F7&background=D3FFD400&width=1000&height=100&lines=Hello%2C+I'm+LittleBear-6w6.;I'm+Software+Enginner+and+sometimes+InfraEngineer.;Recently%2C+I+have+been+working+on+migrating+legacy+systems.)](https://git.io/typing-svg)
+
 [![typograssy](https://typograssy.deno.dev/api?text=I%20go%20my%20way%20at%20my%20own%20pace!&l0=f1f4f9&l1=e8b445&l2=4049c4&l3=db1fb2&l4=016f24&speed=150)](https://github.com/kawarimidoll/typograssy)
 
 - 👋 Hi, I’m @LittleBear-6w6.
