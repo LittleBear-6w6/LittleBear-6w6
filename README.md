@@ -76,7 +76,7 @@ github-profile-3d-contrib
 
 ### 🔥Github Streak Status🔥
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LittleBear-6w6&theme=vue&border_radius=5&mode=weekly&fire=EB5454&border=ACAEBC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LittleBear-6w6&theme=vue&border_radius=5&mode=weekly&fire=EB5454&border=ACAEBC)](https://git.io/streak-stats)
 
 ### 📈Github Activity Graph📈
 
