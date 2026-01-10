@@ -60,7 +60,8 @@ github-readme-stats
 github-profile-trophy
 --->
 ### 🏆Github Trophy🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=LittleBear-6w6&theme=flat&column=4&margin-w=15&margin-h=15)](https://github.com/LittleBear-6w6)
+<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=LittleBear-6w6&theme=flat&column=4&margin-w=15&margin-h=15)](https://github.com/LittleBear-6w6) --->
+ [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=LittleBear-6w6&theme=flat&column=4&margin-w=15&margin-h=15)](https://github.com/LittleBear-6w6)
 
 <!---
 github-profile-summary-cards
