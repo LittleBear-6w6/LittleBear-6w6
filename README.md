@@ -218,9 +218,11 @@ github-profile-3d-contrib
   <h3 align="right">powered by <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="devicons" width="30" height="30" /></h3>
 <br />
 <br />
- 
+
+ <!---
 [![DigiKeyboard_jp](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=DigiKeyboard_jp&show_owner=true)](https://github.com/LittleBear-6w6/DigiKeyboard_jp)
 [![PDFCompareByStackingImages](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=PDFCompareByStackingImages&show_owner=true)](https://github.com/LittleBear-6w6/PDFCompareByStackingImages)
 [![VerifySignedXML](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=VerifySignedXML&show_owner=true)](https://github.com/LittleBear-6w6/VerifySignedXML)
 [![ShellScript-CSV](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=ShellScript-CSV&show_owner=true)](https://github.com/LittleBear-6w6/ShellScript-CSV)
 [![shell_snippets](https://github-readme-stats.vercel.app/api/pin/?username=LittleBear-6w6&repo=shell_snippets&show_owner=true)](https://github.com/LittleBear-6w6/shell_snippets)
+--->
