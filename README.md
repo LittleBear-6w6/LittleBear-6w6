@@ -129,9 +129,10 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/awk/awk-original-wordmark.svg" alt="AWK" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualbasic/visualbasic-original.svg" alt="VisualBasic" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cobol/cobol-original.svg" alt="COBOL" width="50" height="50" />
 </p>
 <p aligin="left">
-  COBOL&emsp;EASY PLUS&emsp;Fortran
+  EASY PLUS&emsp;Fortran
 </p>
 
 <h3>Programing Framework & Library & Tools</h3>
@@ -151,6 +152,7 @@ github-profile-3d-contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="react" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="NEXT.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" />
